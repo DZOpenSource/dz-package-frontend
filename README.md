@@ -2,6 +2,8 @@
 
 This application was generated using JHipster 6.9.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.9.1](https://www.jhipster.tech/documentation-archive/v6.9.1).
 
+[![Build Status](https://travis-ci.com/DZOpenSource/dz-package-frontend.svg?branch=master)](https://travis-ci.com/DZOpenSource/dz-package-frontend.svg?branch=master)
+
 Selected [graphical charter](https://bootswatch.com/materia/).
 
 ## Development
